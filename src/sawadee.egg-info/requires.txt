@@ -1,0 +1,17 @@
+newsapi-python
+newsdataapi
+openai
+langchain
+duckduckgo-search==5.3.1b1
+lxml
+bs4
+playwright
+html2text
+nest-asyncio
+tiktoken
+fastapi
+uvicorn
+watchdog
+streamlit
+audio-recorder-streamlit
+google-cloud-texttospeech

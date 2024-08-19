@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: sawadee
+Version: 0.1.0
+Summary: all LLM
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: newsapi-python
+Requires-Dist: newsdataapi
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: duckduckgo-search==5.3.1b1
+Requires-Dist: lxml
+Requires-Dist: bs4
+Requires-Dist: playwright
+Requires-Dist: html2text
+Requires-Dist: nest-asyncio
+Requires-Dist: tiktoken
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: watchdog
+Requires-Dist: streamlit
+Requires-Dist: audio-recorder-streamlit
+Requires-Dist: google-cloud-texttospeech
