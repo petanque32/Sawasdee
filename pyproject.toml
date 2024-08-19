@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=40.8.0", "wheel"]
+
+[project]
+name = "sawadee"
+version = "0.1.0"
+description = "all LLM"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = ["Programming Language :: Python :: 3"]
+
+dependencies = [
+    'newsapi-python',
+    'newsdataapi' ,
+    'openai' ,
+    'langchain' ,
+    'langchain_community' ,
+    'duckduckgo-search==5.3.1b1',
+    'lxml' , 
+    'bs4' , 
+    'playwright' ,
+    'html2text' ,
+    'nest-asyncio' ,
+    'tiktoken',
+    'fastapi' ,
+    'uvicorn',
+    'watchdog' ,
+    'streamlit' ,
+    'audio-recorder-streamlit' ,
+    'google-cloud-texttospeech' ,
+]
